@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.techspotlight.online
+USER_HOST: user.techspotlight.online
+SHIPPING_HOST: shipping.techspotlight.online
+CART_HOST: cart.techspotlight.online
+PAYMENT_HOST: payment.techspotlight.online
